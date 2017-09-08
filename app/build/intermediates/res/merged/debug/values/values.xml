@@ -136,8 +136,8 @@
     <color name="button_material_light">#ffd6d7d7</color>
     <color name="colorAccent">#FF80AB</color>
     <color name="colorDivider">#1F000000</color>
-    <color name="colorPrimary">#F50057</color>
-    <color name="colorPrimaryDark">#C51162</color>
+    <color name="colorPrimary">#ef5350</color>
+    <color name="colorPrimaryDark">#e53935</color>
     <color name="cyan">#00BCD4</color>
     <color name="cyan50">#E0F7FA</color>
     <color name="design_bottom_navigation_shadow_color">#14000000</color>
@@ -747,6 +747,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_logout">Logout</string>
     <string name="afternoon">Afternoon</string>
     <string name="all_day">All day</string>
     <string name="app_name">My Calendar</string>
@@ -769,6 +770,8 @@
     <string name="delete">Delete</string>
     <string name="edit_event">Edit event</string>
     <string name="end_time">Ends\n%s</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
     <string name="error_location">Unable to determine your location</string>
     <string name="event_calendar">Event calendar</string>
     <string name="event_created">Event created.</string>

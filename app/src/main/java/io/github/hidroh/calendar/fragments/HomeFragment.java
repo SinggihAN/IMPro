@@ -10,6 +10,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
+import android.widget.Toolbar;
 
 import io.github.hidroh.calendar.R;
 import io.github.hidroh.calendar.activities.TaskActivity;

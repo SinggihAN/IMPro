@@ -32,13 +32,13 @@ public final class R {
         public static final int psts_background_tab_pressed_ripple = 0x7f0d005b;
     }
     public static final class drawable {
-        public static final int psts_background_tab = 0x7f0200b0;
+        public static final int psts_background_tab = 0x7f0200b1;
     }
     public static final class id {
         public static final int bold = 0x7f0f004f;
         public static final int italic = 0x7f0f0050;
         public static final int normal = 0x7f0f0022;
-        public static final int psts_tab_title = 0x7f0f0103;
+        public static final int psts_tab_title = 0x7f0f0105;
     }
     public static final class layout {
         public static final int psts_tab = 0x7f040052;

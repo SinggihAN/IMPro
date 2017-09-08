@@ -9,8 +9,8 @@
     <color name="blue700">#1976D2</color>
     <color name="greenA700">#00C853</color>
     <color name="colorDivider">#1F000000</color>
-    <color name="colorPrimary">#F50057</color>
-    <color name="colorPrimaryDark">#C51162</color>
+    <color name="colorPrimary">#ef5350</color>
+    <color name="colorPrimaryDark">#e53935</color>
     <color name="textColorPrimary">#FFFFFF</color>
     <color name="windowBackground">#FFFFFF</color>
     <color name="navigationBarColor">#000000</color>

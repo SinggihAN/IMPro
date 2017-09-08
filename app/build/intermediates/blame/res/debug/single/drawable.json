@@ -88,12 +88,12 @@
         "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cus2.png",
-        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\cus2.png"
-    },
-    {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert1.png",
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\alert1.png"
+    },
+    {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cus2.png",
+        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\cus2.png"
     },
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -104,12 +104,12 @@
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\people.png"
     },
     {
-        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tasks3.png",
-        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\tasks3.png"
-    },
-    {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tasks3.png",
+        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\tasks3.png"
     },
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\horizontal_divider.xml",
@@ -180,12 +180,12 @@
         "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\abc_text_cursor_material.xml"
-    },
-    {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_white.png",
         "source": "C:\\Users\\singgih\\.android\\build-cache\\a8515e46bad92599a20064ff4fe747927cd2b656\\output\\res\\drawable\\logo_white.png"
+    },
+    {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_rain_24dp.xml",
@@ -268,6 +268,10 @@
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\arrow_left.png"
     },
     {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_bg.png",
+        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\login_bg.png"
+    },
+    {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
@@ -306,6 +310,10 @@
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contract.png",
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\contract.png"
+    },
+    {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedbg.xml",
+        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\roundedbg.xml"
     },
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand_more_white_24dp.xml",
@@ -396,6 +404,10 @@
         "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedbutton.xml",
+        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\roundedbutton.xml"
+    },
+    {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calendar_cel_selectl.png",
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\calendar_cel_selectl.png"
     },
@@ -460,12 +472,12 @@
         "source": "C:\\Users\\singgih\\.android\\build-cache\\e1aeb83eb3b4c0a803fe9b56c6e3b56748adfe59\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
-        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
-    },
-    {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_dashboard_black_24dp.xml",
+        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
     },
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
@@ -482,6 +494,10 @@
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
         "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_bg1.png",
+        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\home_bg1.png"
     },
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
