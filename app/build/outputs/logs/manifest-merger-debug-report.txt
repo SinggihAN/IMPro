@@ -94,7 +94,7 @@ ADDED from D:\WORKS\Android\calendarHidroh\app\src\main\AndroidManifest.xml:32:1
 activity#io.github.hidroh.calendar.activities.HomeActivity
 ADDED from D:\WORKS\Android\calendarHidroh\app\src\main\AndroidManifest.xml:35:9-39:20
 	android:label
-		ADDED from D:\WORKS\Android\calendarHidroh\app\src\main\AndroidManifest.xml:37:13-45
+		ADDED from D:\WORKS\Android\calendarHidroh\app\src\main\AndroidManifest.xml:37:13-29
 	android:launchMode
 		ADDED from D:\WORKS\Android\calendarHidroh\app\src\main\AndroidManifest.xml:38:13-43
 	android:name

@@ -88,12 +88,12 @@
         "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert1.png",
-        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\alert1.png"
-    },
-    {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cus2.png",
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\cus2.png"
+    },
+    {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alert1.png",
+        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\alert1.png"
     },
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -104,12 +104,12 @@
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\people.png"
     },
     {
-        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tasks3.png",
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\tasks3.png"
+    },
+    {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\singgih\\.android\\build-cache\\28aa89d9e0d550a016a65ffb25df3bf2207ba816\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\horizontal_divider.xml",
@@ -386,6 +386,10 @@
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tandatanya.xml",
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\selector_tandatanya.xml"
+    },
+    {
+        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\compass.png",

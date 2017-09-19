@@ -66,6 +66,7 @@ public class HomeActivity extends AppCompatActivity {
         transaction.replace(R.id.content,new HomeFragment()).commit();
 
         Toolbar myToolbar = (Toolbar) findViewById(R.id.toolbar);
+        myToolbar.setLogo(R.drawable.logo);
         setSupportActionBar(myToolbar);
 
         getSupportActionBar().setDisplayShowHomeEnabled(true);

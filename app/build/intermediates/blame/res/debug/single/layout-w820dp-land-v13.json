@@ -1,9 +1,5 @@
 [
     {
-        "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\layout-w820dp-land-v13\\header_gradient.xml",
-        "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\layout-w820dp-land\\header_gradient.xml"
-    },
-    {
         "merged": "D:\\WORKS\\Android\\calendarHidroh\\app\\build\\intermediates\\res\\merged\\debug\\layout-w820dp-land-v13\\include_activity_main.xml",
         "source": "D:\\WORKS\\Android\\calendarHidroh\\app\\src\\main\\res\\layout-w820dp-land\\include_activity_main.xml"
     },
